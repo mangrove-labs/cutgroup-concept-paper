@@ -53,7 +53,8 @@ We plan to expand upon Chicago’s CUT Group work by testing with Miami’s uniq
 
 ### Storytelling
 
-- We will primarily **use social media and our website** to promote the work and findings of CUT Group. Code for Miami has several journalists, as well as graphic designers, photographers and videographers in its membership who have agreed to help us produce meaningful multimedia communication materials throughout the project. Miami-Dade County has agreed to promote CUT Group recruitment through some of its many communications channels, which include digital, print and broadcast media.
+- We will primarily **use social media and our website** to promote the work and findings of CUTGroup. Code for Miami has several journalists, as well as graphic designers, photographers and videographers in its membership who have agreed to help us produce meaningful multimedia communication materials throughout the project. Miami-Dade County has agreed to promote CUT Group recruitment through some of its many communications channels, which include digital, print and broadcast media.
+  - The Miami-Dade County Communications team has also been helpful promoting sign-up recruitment. A placement in a "What's New in the County" e-mail received more than one hundred sign ups from across the county, and a thirty second video spot that can be used on social media through their television team has been offered. _[updated Aug 2016]_
 
 - That said, we will also **employ “boots on the ground” techniques** used by community leaders to find a cross-section of Miamians unfamiliar with social media, explain user testing concepts and communicating the importance, along with incentive programs.
 
