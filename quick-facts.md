@@ -1,3 +1,6 @@
+# Quick Facts
+Factoids for purposes of creating press releases
+
 - We got a Knight Foundation Cities Challenge grant for this: http://www.knightfoundation.org/grants/201652509/ 
 - The program will last 16 months
 - Folks who sign up will get a $5 gift card. They enter a pool of testers and if they are part of a testing session and participate they will get a $25 gift card
