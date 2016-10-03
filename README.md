@@ -22,8 +22,7 @@ We plan to create a Civic User Testing Group conducting grassroots user testing 
 ### Success Metrics
 
 - Track how government applies the feedback we provide
-- Monitor analytics and existing feedback channels for the sites and applications we test to evaluate whether results from our user-testing research affect common metrics:
-- including traffic, bounce-rate, time-on-site, help requests, and complaints.
+- Monitor analytics and existing feedback channels for the sites and applications we test to evaluate whether results from our user-testing research affect common metrics, including traffic, bounce-rate, time-on-site, help requests, and complaints.
 - Verify we have a user cross section that accurately reflects the demographics of Miami
 
 We plan to expand upon Chicago’s CUT Group work by testing with Miami’s unique multilingual and multicultural populations:
