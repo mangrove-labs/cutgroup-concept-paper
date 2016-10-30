@@ -24,15 +24,17 @@ Goals: Understand criteria of what tech to test, do we have enough technology to
 ### Building the Proctor guide, form, post-interview questionaire
 
 - [ ] Write out the proctor Form
+   - Miami Template: http://bit.ly/2eJidAQ
    - Build a form to be read and filled out by the proctor to a resident. 
    - Goal is to capture how a tester does a task or finds information. 
    - It’s also great to keep notes about the testers' experiences: “Tester thought that clicking on this would [do this] but it did [this instead]” or “Tester became frustrated that she could not find something on this page”
    - Sample: https://smartchicago2012.wufoo.com/forms/cutgroup-28-data-portal-redesign/
+   
 - [ ] Building the proctor guide
    - Similar to the planning meeting document, but specifically to give proctors a heads up on how to act so they're not confused.
-   - Sample: http://bit.ly/2f2x5Zb
+   - Chicago Sample: http://bit.ly/2f2x5Zb
 - [ ] Build the proctor questionaire
-   - This is already created: http://bit.ly/2ebxTvX
+   - Miamite Template is already created here: http://bit.ly/2ebxJVm
 
 - [ ] Hold a training meeting with parters and proctors to go over everything
 - [ ] Prepare tester packets
