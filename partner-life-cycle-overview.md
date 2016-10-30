@@ -34,7 +34,7 @@ Goals: Understand criteria of what tech to test, do we have enough technology to
    - Similar to the planning meeting document, but specifically to give proctors a heads up on how to act so they're not confused.
    - Chicago Sample: http://bit.ly/2f2x5Zb
 - [ ] Build the proctor questionaire
-   - Miamite Template is already created here: http://bit.ly/2ebxJVm
+   - Miami Template is already created here: http://bit.ly/2ebxJVm
 
 - [ ] Hold a training meeting with parters and proctors to go over everything
 - [ ] Prepare tester packets
