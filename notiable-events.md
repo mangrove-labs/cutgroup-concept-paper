@@ -9,3 +9,4 @@
 - October, 2016: Sonja Marziano of Smart Chicago Collaborative gives a training session to the CUTGroup Miami core team.
 - November 9, 2016: Miami Dade County makes a 30 second video promoting the CUTGroup to circulate on social media: https://twitter.com/MiamiDadeCounty/status/796337836274421760
 - November 15, 2016: Our first CUTGroup with other people, doing a review of a beta of a website for the City of Miami. Simple beginnings, as four of the eight testers who had committed show up.
+- December 20, 2016: Second CUTGroup with the City of Miami at the Little Haiti NET center. Sixteen testers attend.
