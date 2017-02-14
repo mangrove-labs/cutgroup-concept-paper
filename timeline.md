@@ -8,10 +8,11 @@
 - October, 2016: First batch of $5 VISA gift cards are sent to the first 250 people who have signed up to the website. 
 - October, 2016: Sonja Marziano of Smart Chicago Collaborative gives a training session to the CUTGroup Miami core team.
 - November 9, 2016: Miami Dade County makes a 30 second video promoting the CUTGroup to circulate on social media: https://twitter.com/MiamiDadeCounty/status/796337836274421760
-- November 15, 2016: Our first CUTGroup Miami session with other people, doing a review of a beta of a website for the City of Miami. Simple beginnings, as four of the eight testers who had committed show up.
+- November 15, 2016: Our first CUTGroup Miami session with other people, doing a review of a beta of a website for the City of Miami. Simple beginnings, as four of the eight testers who had committed show up. We ended up [writing a report on our experiences January 19, 2017](https://medium.com/cutgroup-miami/prototype-civic-user-test-of-miami-dade-county-beta-web-site-83658d18c5de#.2faexa3tc).
 - December 4, 2016: Miami Chief Innovation Officer Mike Sarasti appears to promote the alpha website and CUTGroup. [Youtube link](http://youtu.be/DOJOfekfhtE) - segment appears at the 16:00 mark
 - December 20, 2016: Second CUTGroup Miami session with the City of Miami at the Little Haiti NET center. Sixteen testers attend.
 - January 5, 2017: Third CUTGroup Miami session with Open Referral to test an early prototype of the Miami 211 web application, a partnership between Open Referral, Mangrove Labs and Jewish Community Services of South Florida (formerly Switchboard Miami.) Twenty four testers attend, held during the VC Miami event at CIC Miami. There are approximately 650 people in the total CUTGroup Miami pool thus far.
-- _Feburary 2, 2017_: Projected fourth CUTGroup Miami session with Open Referral to test an second iteration of the Miami 211 web application.
-- _Second week of February 2017_: Projected fifth session for a second iteration of Miami-Dade County's beta website. 
+- Feburary 2, 2017: Fourth CUTGroup Miami session with Open Referral to test an second iteration of the Miami 211 web application. 22 testers.
+- February 7, 2017: Fifth session for a second iteration of Miami-Dade County's beta website held at North Dade Regional Library in Miami-Gardens. Three testers show up for a variety of reasons, including turn around between sessions, less time for e-mail campaigns and availability for testers. A learning moment. 
+- February 12, 2017: Report for CUTGroup Test 4 [posted to Medium](https://medium.com/cutgroup-miami/cutgroup-miami-test-4-miami-211-e3be2896e451#.rnyexrv2b).
 - _Third week of February 2017_: Projected sixth session with FIU's Director of Program Administration to test Miami-Dade County's website for residents with disabilities (mobility, visual, language, hearing, developmental)
