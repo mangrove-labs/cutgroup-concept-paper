@@ -41,11 +41,14 @@ Goals: Understand criteria of what tech to test, do we have enough technology to
    - Includes tester sheets, name, address or phone number, designations, answers to the screening questions, consent form, envelope with gift card inside, proctor questionaire
 
 
+### Send first round e-mails to recruit for testers, T MINUS 2 WEEKS
+
+### Send second round e-mails to recruit for testers, T MINUS 1 WEEK
+
 ## During
 
 ### Before the test happens
 
- - [ ] Recruit for testers
  - [ ] Recruit for proctors
 
 

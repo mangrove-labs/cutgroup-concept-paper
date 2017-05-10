@@ -1,0 +1,1384 @@
+## Raw Answers
+###Give yourself a Tester Profile:
+ - *Oscarlopez*: Oscarlopez
+ - *Jazzy Jaz*: Jazzy Jaz
+ - *Jose*: Jose
+ - *Andrae*: Andrae
+ - *miamigirl123*: miamigirl123
+ - *Latinmiami73*: Latinmiami73
+ - *Carlos*: Carlos
+ - *Ruth*: Ruth
+ - *Fabiola*: Fabiola
+ - *JJ*: JJ
+ - *Edison, CUT group volunteer, transportation advocate*: Edison, CUT group volunteer, transportation advocate
+ - *motivator*: motivator
+ - *Mike*: Mike
+ - *monicar*: monicar
+ - *Beth Maps*: Beth Maps
+ - *User*: User
+ - *Tito*: Tito
+ - *City guy*: City guy
+ - *lcinmia*: lcinmia
+ - *Works downtown and uses metromover to move around downtown. *: Works downtown and uses metromover to move around downtown. 
+ - *Return-advertiser*: Return-advertiser
+ - *Paul*: Paul
+ - *Mimi*: Mimi
+ - *Miami Biker / Commuter *: Miami Biker / Commuter 
+ - *Lara*: Lara
+ - *hi*: hi
+ - *Travel Industry Professional Daily transit commuter. *: Travel Industry Professional Daily transit commuter. 
+ - *anonymous on the internet*: anonymous on the internet
+
+###Proctored by:
+ - *Oscarlopez*: Cct
+ - *Jazzy Jaz*: Daniel Rodriguez
+ - *Jose*: Erik Correa
+ - *Andrae*: Rob Davis
+ - *miamigirl123*: sonia correa
+ - *Latinmiami73*: Daniel Rodriguez
+ - *Carlos*: Edison Espinosa
+ - *Ruth*: Daniel Rodriguez
+ - *Fabiola*: Daniel Rodriguez
+ - *JJ*: rob davis
+ - *Edison, CUT group volunteer, transportation advocate*: Edison
+ - *motivator*: Sonia Correa
+ - *Mike*: Daniel Rodriguez
+ - *monicar*: Sonia Correa
+ - *Beth Maps*: Pierre Cabral
+ - *User*: Edison
+ - *Tito*: Rob Davis
+ - *City guy*: Daniel Rodriguez
+ - *lcinmia*: Erik Correa
+ - *Works downtown and uses metromover to move around downtown. *: Spencer Ash
+ - *Return-advertiser*: Danielle Ungermann
+ - *Paul*: Sonia Correa
+ - *Mimi*: Pierre Cabral
+ - *Miami Biker / Commuter *: Susana Siman 
+ - *Lara*: Daniel Rodriguez
+ - *hi*: spencer ash
+ - *Travel Industry Professional Daily transit commuter. *: Pierre Cabral
+ - *anonymous on the internet*: Danielle Ungermann
+
+###How often do you ride the Miami Metromover?
+ - *Oscarlopez*: Very Often
+ - *Jazzy Jaz*: Very Often
+ - *Jose*: Sometimes
+ - *Andrae*: Very Often
+ - *miamigirl123*: Rarely
+ - *Latinmiami73*: Very Often
+ - *Carlos*: Very Often
+ - *Ruth*: Sometimes
+ - *Fabiola*: Often
+ - *JJ*: Sometimes
+ - *Edison, CUT group volunteer, transportation advocate*: Rarely
+ - *motivator*: Very Often
+ - *Mike*: Often
+ - *monicar*: Often
+ - *Beth Maps*: Very Often
+ - *User*: Sometimes
+ - *Tito*: Very Often
+ - *City guy*: Very Often
+ - *lcinmia*: Sometimes
+ - *Works downtown and uses metromover to move around downtown. *: Sometimes
+ - *Return-advertiser*: Sometimes
+ - *Paul*: Very Often
+ - *Mimi*: Sometimes
+ - *Miami Biker / Commuter *: Rarely
+ - *Lara*: Often
+ - *hi*: Sometimes
+ - *Travel Industry Professional Daily transit commuter. *: Rarely
+ - *anonymous on the internet*: Rarely
+
+###How long has it been since you last rode the Metromover
+ - *Oscarlopez*: 
+ - *Jazzy Jaz*: 
+ - *Jose*: 
+ - *Andrae*: 
+ - *miamigirl123*: 
+ - *Latinmiami73*: 
+ - *Carlos*: 
+ - *Ruth*: 
+ - *Fabiola*: 
+ - *JJ*: 
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: 
+ - *Mike*: 
+ - *monicar*: 
+ - *Beth Maps*: 
+ - *User*: 
+ - *Tito*: 
+ - *City guy*: 
+ - *lcinmia*: 
+ - *Works downtown and uses metromover to move around downtown. *: 
+ - *Return-advertiser*: 
+ - *Paul*: 
+ - *Mimi*: 
+ - *Miami Biker / Commuter *: 
+ - *Lara*: 
+ - *hi*: 
+ - *Travel Industry Professional Daily transit commuter. *: 
+ - *anonymous on the internet*: 
+
+###Have you ever used the Miami-Dade County Metromover map to plan your ride?
+ - *Oscarlopez*: 
+ - *Jazzy Jaz*: 
+ - *Jose*: 
+ - *Andrae*: 
+ - *miamigirl123*: 
+ - *Latinmiami73*: 
+ - *Carlos*: 
+ - *Ruth*: 
+ - *Fabiola*: 
+ - *JJ*: 
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: 
+ - *Mike*: 
+ - *monicar*: 
+ - *Beth Maps*: 
+ - *User*: 
+ - *Tito*: 
+ - *City guy*: 
+ - *lcinmia*: 
+ - *Works downtown and uses metromover to move around downtown. *: 
+ - *Return-advertiser*: 
+ - *Paul*: 
+ - *Mimi*: 
+ - *Miami Biker / Commuter *: 
+ - *Lara*: 
+ - *hi*: 
+ - *Travel Industry Professional Daily transit commuter. *: 
+ - *anonymous on the internet*: 
+
+###Where have you viewed the official Metromover map?
+ - *Oscarlopez*: 
+ - *Jazzy Jaz*: 
+ - *Jose*: 
+ - *Andrae*: 
+ - *miamigirl123*: 
+ - *Latinmiami73*: 
+ - *Carlos*: 
+ - *Ruth*: 
+ - *Fabiola*: 
+ - *JJ*: 
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: 
+ - *Mike*: 
+ - *monicar*: 
+ - *Beth Maps*: 
+ - *User*: 
+ - *Tito*: 
+ - *City guy*: 
+ - *lcinmia*: 
+ - *Works downtown and uses metromover to move around downtown. *: 
+ - *Return-advertiser*: 
+ - *Paul*: 
+ - *Mimi*: 
+ - *Miami Biker / Commuter *: 
+ - *Lara*: 
+ - *hi*: 
+ - *Travel Industry Professional Daily transit commuter. *: 
+ - *anonymous on the internet*: 
+
+###Other
+ - *Oscarlopez*: 
+ - *Jazzy Jaz*: 
+ - *Jose*: 
+ - *Andrae*: 
+ - *miamigirl123*: 
+ - *Latinmiami73*: n/a
+ - *Carlos*: 
+ - *Ruth*: n/a
+ - *Fabiola*: 
+ - *JJ*: 
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: 
+ - *Mike*: 
+ - *monicar*: 
+ - *Beth Maps*: 
+ - *User*: 
+ - *Tito*: 
+ - *City guy*: n/a
+ - *lcinmia*: 
+ - *Works downtown and uses metromover to move around downtown. *: 
+ - *Return-advertiser*: 
+ - *Paul*: 
+ - *Mimi*: 
+ - *Miami Biker / Commuter *: 
+ - *Lara*: 
+ - *hi*: 
+ - *Travel Industry Professional Daily transit commuter. *: 
+ - *anonymous on the internet*: 
+
+###I viewed the Metromover map on....
+ - *Oscarlopez*: 
+ - *Jazzy Jaz*: 
+ - *Jose*: 
+ - *Andrae*: 
+ - *miamigirl123*: 
+ - *Latinmiami73*: 
+ - *Carlos*: 
+ - *Ruth*: 
+ - *Fabiola*: 
+ - *JJ*: 
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: 
+ - *Mike*: 
+ - *monicar*: 
+ - *Beth Maps*: 
+ - *User*: 
+ - *Tito*: 
+ - *City guy*: 
+ - *lcinmia*: 
+ - *Works downtown and uses metromover to move around downtown. *: 
+ - *Return-advertiser*: 
+ - *Paul*: 
+ - *Mimi*: 
+ - *Miami Biker / Commuter *: 
+ - *Lara*: 
+ - *hi*: 
+ - *Travel Industry Professional Daily transit commuter. *: 
+ - *anonymous on the internet*: 
+
+###Have you ever used the Miami-Dade Country Metromover map to plan your ride?
+ - *Oscarlopez*: 
+ - *Jazzy Jaz*: 
+ - *Jose*: 
+ - *Andrae*: 
+ - *miamigirl123*: 
+ - *Latinmiami73*: 
+ - *Carlos*: 
+ - *Ruth*: 
+ - *Fabiola*: 
+ - *JJ*: 
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: 
+ - *Mike*: 
+ - *monicar*: 
+ - *Beth Maps*: 
+ - *User*: 
+ - *Tito*: 
+ - *City guy*: 
+ - *lcinmia*: 
+ - *Works downtown and uses metromover to move around downtown. *: 
+ - *Return-advertiser*: 
+ - *Paul*: 
+ - *Mimi*: 
+ - *Miami Biker / Commuter *: 
+ - *Lara*: 
+ - *hi*: 
+ - *Travel Industry Professional Daily transit commuter. *: 
+ - *anonymous on the internet*: 
+
+###What's your occupation? What do you do all day?
+ - *Oscarlopez*: Hospitality 
+ - *Jazzy Jaz*: Work. DD Discount
+ - *Jose*: Sales department in a telecommunication company
+ - *Andrae*: student
+ - *miamigirl123*: PR account Coordinator. Office work 
+ - *Latinmiami73*: Unemployed.
+ - *Carlos*: High School
+ - *Ruth*: Sales
+ - *Fabiola*: Student
+ - *JJ*: Student
+ - *Edison, CUT group volunteer, transportation advocate*: Digital Marketing Agency
+ - *motivator*: Work at Miami Airport. TSA (screener)
+ - *Mike*: Operations analyst
+ - *monicar*: Grant Writer to write grant applications. 
+ - *Beth Maps*: Business Process Specialist
+ - *User*: Living the dream
+ - *Tito*: Work as a coordinator at Mandarin Hotel
+ - *City guy*: Revenue Cycling Manager
+ - *lcinmia*: Awards Coordinator for radio station
+ - *Works downtown and uses metromover to move around downtown. *: County Clerk
+ - *Return-advertiser*: Advertiser
+ - *Paul*: Procurement Professor. Purchase goods/services. 
+ - *Mimi*: Tutor at a Middle School
+ - *Miami Biker / Commuter *: Accounting & Management 
+ - *Lara*: Stay home mom.
+ - *hi*: tutor / law student
+ - *Travel Industry Professional Daily transit commuter. *: Account Manager for a Travel Agency
+ - *anonymous on the internet*: Call specialist for miami dade county 311
+
+###Platform Map
+ - *Oscarlopez*: Platform Map
+ - *Jazzy Jaz*: 
+ - *Jose*: 
+ - *Andrae*: 
+ - *miamigirl123*: 
+ - *Latinmiami73*: 
+ - *Carlos*: 
+ - *Ruth*: 
+ - *Fabiola*: 
+ - *JJ*: 
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: 
+ - *Mike*: 
+ - *monicar*: 
+ - *Beth Maps*: 
+ - *User*: 
+ - *Tito*: 
+ - *City guy*: 
+ - *lcinmia*: 
+ - *Works downtown and uses metromover to move around downtown. *: 
+ - *Return-advertiser*: Platform Map
+ - *Paul*: 
+ - *Mimi*: 
+ - *Miami Biker / Commuter *: Platform Map
+ - *Lara*: 
+ - *hi*: 
+ - *Travel Industry Professional Daily transit commuter. *: Platform Map
+ - *anonymous on the internet*: Platform Map
+
+###Overhead Map
+ - *Oscarlopez*: 
+ - *Jazzy Jaz*: 
+ - *Jose*: 
+ - *Andrae*: 
+ - *miamigirl123*: 
+ - *Latinmiami73*: 
+ - *Carlos*: 
+ - *Ruth*: 
+ - *Fabiola*: 
+ - *JJ*: 
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: 
+ - *Mike*: 
+ - *monicar*: 
+ - *Beth Maps*: 
+ - *User*: 
+ - *Tito*: 
+ - *City guy*: 
+ - *lcinmia*: 
+ - *Works downtown and uses metromover to move around downtown. *: Overhead Map
+ - *Return-advertiser*: 
+ - *Paul*: 
+ - *Mimi*: 
+ - *Miami Biker / Commuter *: 
+ - *Lara*: 
+ - *hi*: Overhead Map
+ - *Travel Industry Professional Daily transit commuter. *: 
+ - *anonymous on the internet*: 
+
+###In-Bus Map
+ - *Oscarlopez*: 
+ - *Jazzy Jaz*: 
+ - *Jose*: 
+ - *Andrae*: 
+ - *miamigirl123*: 
+ - *Latinmiami73*: 
+ - *Carlos*: 
+ - *Ruth*: 
+ - *Fabiola*: 
+ - *JJ*: 
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: 
+ - *Mike*: 
+ - *monicar*: 
+ - *Beth Maps*: 
+ - *User*: 
+ - *Tito*: 
+ - *City guy*: 
+ - *lcinmia*: 
+ - *Works downtown and uses metromover to move around downtown. *: 
+ - *Return-advertiser*: 
+ - *Paul*: 
+ - *Mimi*: 
+ - *Miami Biker / Commuter *: 
+ - *Lara*: 
+ - *hi*: 
+ - *Travel Industry Professional Daily transit commuter. *: 
+ - *anonymous on the internet*: 
+
+###Have you ever been tested for color blindness?
+ - *Oscarlopez*: 0
+ - *Jazzy Jaz*: 1
+ - *Jose*: 1
+ - *Andrae*: 0
+ - *miamigirl123*: 0
+ - *Latinmiami73*: 0
+ - *Carlos*: 0
+ - *Ruth*: 0
+ - *Fabiola*: 1
+ - *JJ*: 1
+ - *Edison, CUT group volunteer, transportation advocate*: 0
+ - *motivator*: 1
+ - *Mike*: 1
+ - *monicar*: 0
+ - *Beth Maps*: 1
+ - *User*: 0
+ - *Tito*: 0
+ - *City guy*: 0
+ - *lcinmia*: 1
+ - *Works downtown and uses metromover to move around downtown. *: 0
+ - *Return-advertiser*: 1
+ - *Paul*: 1
+ - *Mimi*: 1
+ - *Miami Biker / Commuter *: 1
+ - *Lara*: 1
+ - *hi*: 0
+ - *Travel Industry Professional Daily transit commuter. *: 1
+ - *anonymous on the internet*: 0
+
+###Would you be willing to take a quick online color blindness test? (It only takes about a minute)
+ - *Oscarlopez*: 1
+ - *Jazzy Jaz*: 
+ - *Jose*: 
+ - *Andrae*: 1
+ - *miamigirl123*: 1
+ - *Latinmiami73*: 1
+ - *Carlos*: 0
+ - *Ruth*: 1
+ - *Fabiola*: 
+ - *JJ*: 
+ - *Edison, CUT group volunteer, transportation advocate*: 0
+ - *motivator*: 
+ - *Mike*: 
+ - *monicar*: 1
+ - *Beth Maps*: 
+ - *User*: 0
+ - *Tito*: 1
+ - *City guy*: 1
+ - *lcinmia*: 
+ - *Works downtown and uses metromover to move around downtown. *: 1
+ - *Return-advertiser*: 
+ - *Paul*: 
+ - *Mimi*: 
+ - *Miami Biker / Commuter *: 
+ - *Lara*: 
+ - *hi*: 1
+ - *Travel Industry Professional Daily transit commuter. *: 
+ - *anonymous on the internet*: 1
+
+###What were the results of your color blindness test?
+ - *Oscarlopez*: Deutan (sensitive to reds; difficulty seeing greens)
+ - *Jazzy Jaz*: Normal
+ - *Jose*: Normal
+ - *Andrae*: Normal
+ - *miamigirl123*: Normal
+ - *Latinmiami73*: Normal
+ - *Carlos*: 
+ - *Ruth*: Normal
+ - *Fabiola*: Normal
+ - *JJ*: Normal
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: Normal
+ - *Mike*: Normal
+ - *monicar*: Normal
+ - *Beth Maps*: Normal
+ - *User*: 
+ - *Tito*: Normal
+ - *City guy*: Normal
+ - *lcinmia*: Tritan (difficulty seeing blues and yellows)
+ - *Works downtown and uses metromover to move around downtown. *: Normal
+ - *Return-advertiser*: Normal
+ - *Paul*: Normal
+ - *Mimi*: Normal
+ - *Miami Biker / Commuter *: Normal
+ - *Lara*: Normal
+ - *hi*: Normal
+ - *Travel Industry Professional Daily transit commuter. *: 
+ - *anonymous on the internet*: Normal
+
+###Can you think of a destination that you might use the Metromover to get to?
+ - *Oscarlopez*: 1
+ - *Jazzy Jaz*: 1
+ - *Jose*: 1
+ - *Andrae*: 1
+ - *miamigirl123*: 1
+ - *Latinmiami73*: 1
+ - *Carlos*: 1
+ - *Ruth*: 1
+ - *Fabiola*: 1
+ - *JJ*: 1
+ - *Edison, CUT group volunteer, transportation advocate*: 1
+ - *motivator*: 1
+ - *Mike*: 1
+ - *monicar*: 1
+ - *Beth Maps*: 1
+ - *User*: 1
+ - *Tito*: 1
+ - *City guy*: 1
+ - *lcinmia*: 1
+ - *Works downtown and uses metromover to move around downtown. *: 1
+ - *Return-advertiser*: 1
+ - *Paul*: 1
+ - *Mimi*: 1
+ - *Miami Biker / Commuter *: 1
+ - *Lara*: 1
+ - *hi*: 1
+ - *Travel Industry Professional Daily transit commuter. *: 1
+ - *anonymous on the internet*: 1
+
+###Show me how you would use this map to plan a route to that location.- Where would you first get on public transit?- Where would you get on the Metromover?- Which Metromover station was the closest to your destination?     -- How did you know it was the closest?
+ - *Oscarlopez*: Brickelln loop
+James l knight center
+Transfer to inner loop 
+Get off on government center
+ - *Jazzy Jaz*: I would start at the government center. Then get on the Omni Blue line, and then get off at the Bayfront Park stop. 
+
+Government center is the closet metro stop in my area.
+ - *Jose*: I work very close to Brickell so i would take the Metromover starting at the Brickell Centre. Bayfront park is the closest to my destination so i would travel occasionally from both, as well as the Government Centre. The way i knew the station was closest to me was because the station name was the same as my destination.
+ - *Andrae*: Get on at government center. Closest location to tester's destination (Bayfront Park) get off at Knight Center. Gets off one stop earlier to avoid busy-ness. Worked backword from finding destination.
+ - *miamigirl123*: Yes, Bayside. Tester is looking at the pamphlet. Looking for Metromover closest to home address and at first glance cannot find it on the pamphlet. Searched the back of pamphlet and selected Metrobus 21.
+ - *Latinmiami73*: Start at Adriene Archsst omni loop southbound, pass 11th street, college north, wilkie, then stop at government center. 
+ - *Carlos*: 8TH STREET, HE WILL TAKE THE YELLOW TRAIL AND TAKE IT ALL THE WAY TO BAYSIDE. VERY RESPONSIVE, AND THAT GET'S TO BAYSIDE
+ - *Ruth*: You cant get on the omni loop from here. So I would go north and then transfer and go to bayside. 
+ - *Fabiola*: "I usually start from Government Center MetroMover Brickell Loop ( today I took the omni loop cuz I was kind of confused) I would then get off at thirdstreet and take the brickell metro mover to my destination. 
+ - *JJ*: Map shows Library under Gov. Center. Tried to find loop associated with Gov. Center. Inner loop. From Brickell to Inner transfer to Gov. Center.
+ - *Edison, CUT group volunteer, transportation advocate*: Get on Brickell city center, hop off at Bayfront park 5 stops later, college Bayside description
+ - *motivator*: In order for me to get here today I had to take the Brickell Loop from the Government Center. From the Brickell Loop I got off on 8 Street Station. I exited and got here. Another way I could've gotten here is to catch the Omni Loop to the Government Center and transfer to the Brickell Loop. I knew it was the closest because I used the Metro Dade Transit app. 
+ - *Mike*: Take the brickell loop from first street to Financial District Station. 
+ - *monicar*: I would look for public transit on the page with full map where it has listing by station. I would get on the station with the circle/dot on the map. The closest Metromover station to my destination was College/Bayside station. I know because I've been there before but it is not clearly shown on the map. 
+ - *Beth Maps*: First catch from brickell city center 8th st and take the metro mover to the goverment center,  brickell loop. 
+ - *User*: First look at the OMni Loop and look at the one that connects to the Brickell and take the orange line. She looked at the map
+ - *Tito*: Start with the Brickell City Centre Station, finding the Museum Park Station (noticed two routes to get there) choosing to take the Full Loop on the perimeter to Museum Park. Or taking Brickell Loop transferring to Knight Center to Omni loop. Knew station stops at Frost & Perez. 
+ - *City guy*: Begin: First street station, "I live at the loft2, so I just walk out the side of my building and up the stairs and its right there. Inner loop, transfer at gov center and transfer at financial district. It would be nice to have a direct route."
+ - *lcinmia*: Dadeland North. Government Center. School Board. I take this route periodically
+ - *Works downtown and uses metromover to move around downtown. *: 1- metrop rail at ground station - get off at downtown gov't center - take metro mover 2- get off at college bayfront park - it looks closer
+ - *Return-advertiser*: We are starting from Brickell City Centre- orange line/ Brickell loop going north, then take the line to College/Bayside station, switch to Omni lOOP and from there, get off at the Arscht.
+ - *Paul*: I would get on Government Center, wait for the Brickell loop. The closest station to the destination would be Brickell. It shows it on the map. 
+ - *Mimi*: Get on Brickell station, and Bayside would be the eight stop on the Brickell route. College Bayside is the closest station.
+ - *Miami Biker / Commuter *: Tester would get on Brickell City Center and would get off at Bayfront Park. The Tester says that since his stop is Bayfront Park it was easy to to know where to go. 
+ - *Lara*: You get on at fifth street station, and take the brickell loop south to Brickell Station. I walk to get the station from my house.
+ - *hi*: starting on upper east side. metromover at omnistation or gov't center. taking omni loop. for american airlines areana - freedom tower. they are on the map - made an estimate. 
+ - *Travel Industry Professional Daily transit commuter. *: Tester would start at bayfront park then take the blue line to knight center. Tester would use google maps to be sure its the closest station. Tester is trying to get to Whole Foods in Down Town. 
+ - *anonymous on the internet*: To bayfront park, I would take metrorail, gov center station and take purple omni loop at gov center and ride until I get to the Bayfront Park station.
+
+###Proctors only: How easily did the user perform this task?
+ - *Oscarlopez*: User performed the task quickly with no trouble
+ - *Jazzy Jaz*: User performed the task quickly with no trouble
+ - *Jose*: User performed the task quickly with no trouble
+ - *Andrae*: User performed the task quickly with no trouble
+ - *miamigirl123*: User performed the task quickly with no trouble
+ - *Latinmiami73*: 
+ - *Carlos*: User couldn't perform the task
+ - *Ruth*: 
+ - *Fabiola*: User couldn't perform the task
+ - *JJ*: User performed the task quickly with no trouble
+ - *Edison, CUT group volunteer, transportation advocate*: User performed the task quickly with no trouble
+ - *motivator*: 
+ - *Mike*: User performed the task quickly with no trouble
+ - *monicar*: 
+ - *Beth Maps*: User performed the task quickly with no trouble
+ - *User*: User performed the task quickly with no trouble
+ - *Tito*: User couldn't perform the task
+ - *City guy*: 
+ - *lcinmia*: User performed the task quickly with no trouble
+ - *Works downtown and uses metromover to move around downtown. *: User performed the task quickly with no trouble
+ - *Return-advertiser*: User performed the task quickly with no trouble
+ - *Paul*: 
+ - *Mimi*: User performed the task quickly with no trouble
+ - *Miami Biker / Commuter *: 
+ - *Lara*: User performed the task quickly with no trouble
+ - *hi*: 
+ - *Travel Industry Professional Daily transit commuter. *: User performed the task quickly with no trouble
+ - *anonymous on the internet*: 
+
+###How could the map be improved to make route planning easier?
+ - *Oscarlopez*: Add bus information at the station 
+ - *Jazzy Jaz*: Larger map, with larger font size.
+ - *Jose*: I think the route is easy already.
+ - *Andrae*: No big improvements, think it is pretty good.
+ - *miamigirl123*: It might be an overload of info, however, I think it might be helpful to include the sub destinations into the map, in order to make it much more detailed. 
+ - *Latinmiami73*: Interactive maps would be awesome. That tell you how to get places. Input and output style. Perhaps at major centers.
+ - *Carlos*: have the attractions, near the station need, 
+ - *Ruth*: I prefer having the option to go back the way I came without having to transfer or go the entire way around.
+ - *Fabiola*: Too much arrows on the map. Too much surrounding landmark names. Too much on the map in general. Alot of confusing circles on the stations.\
+ - *JJ*: the dots at each station is confusing, could be representing two separate stations on two different lines. Exact proximity from loop to transfer/location could be improved. Quotes "It looks like the government center is encompassing all of the stops, like a giant station."
+ - *Edison, CUT group volunteer, transportation advocate*: It's pretty easy the guest thinks
+ - *motivator*: I would add the Omni Station to the map because tourist wouldn't know the School Board station. Everything else is self explanatory. 
+ - *Mike*: The only difficult part I found was that the inner loop was not really a track. It's alternative trains, so maybe making that more clear. 
+ - *monicar*: I would suggest to add the frequency of train stops per loop. 
+ - *Beth Maps*: The map is fine the way it is. 
+ - *User*: She thinks it's good. She got used to it.
+ - *Tito*: Make one example with stops/steps. Show what it reads like. 
+ - *City guy*: I think the map is very user friendly as it is.
+ - *lcinmia*: see extensive comments above
+ - *Works downtown and uses metromover to move around downtown. *: same as last time
+ - *Return-advertiser*: "Well it has the open circles so I assume it would transfer to the Omni but since it specifically says Inner Loop I figured that wouldn't be the case." ie Need to be inclusive of all options.
+ - *Paul*: Put popular local businesses on the map (advertising opportunity) in order to use them as landmarks and know where you want to get off. For example, you would have to know where Bayside Marketplace is on the map, in order to know what's the nearest station. 
+ - *Mimi*: It was simple
+ - *Miami Biker / Commuter *: Changing the colors. Blue Blue and Orange makes it a bit confusing. Having the colors a bit different would help. 
+ - *Lara*: Maybe because im a local I dont think it needs to be improved, but I see some tourists get lost alot.
+ - *hi*: should the arrows be a different color with a black outline similar to other other ones? creating uniformity in the arrows. horizontal map placement on actual metromover makes no sense - this map is better w/ N/S orientation. 
+ - *Travel Industry Professional Daily transit commuter. *: More casual high lite destinations like restuarants and shopping centers. 
+ - *anonymous on the internet*: Pretty straightforward just tourists may not be familiar with the area-- map should make clear how to change route if they've gone too far.
+
+###Find the "Freedom Tower" Metromover station.
+ - *Oscarlopez*: It took some time
+ - *Jazzy Jaz*: Tester was able to easily find the freedom tower location within seconds. No trouble what so-ever.
+ - *Jose*: Tester briefly circled around map but found no trouble with finding the location.
+ - *Andrae*: Scanned the panel and decided quickly. Yes.
+ - *miamigirl123*: Firstly, the tester looked at map on pamphlet to find Freedom Tower and found it on the map and was then able to find the address on the pamphlet. 
+ - *Latinmiami73*: User easily found the station. Recalled from memory and "knows the area." 
+ - *Carlos*: HE FOUND IT PRETTY EASILY
+ - *Ruth*: User found it easily
+ - *Fabiola*: Found the station within 10 seconds.
+ - *JJ*: Scanned the map. Yes. Found loop.
+ - *Edison, CUT group volunteer, transportation advocate*: User was able to find it pretty easy
+ - *motivator*: Yes, tester was able to find it. 
+ - *Mike*: Yes. Easily found location. From memory. 
+ - *monicar*: Yes, the tester was able to find the Freedom Tower station. 
+ - *Beth Maps*: Tester found that station very easily
+ - *User*: She found it pretty easy, took less than a second.
+ - *Tito*: Yes. Very quickly on large map/still missing instruction points/guidance for legend. 
+ - *City guy*: Easily identified. 
+ - *lcinmia*: Y
+ - *Works downtown and uses metromover to move around downtown. *: took a while. saw freedom towe in text fields on left but had trouble identifying location on map. 
+ - *Return-advertiser*: Looked at the individual maps on the right for each loop.
+ - *Paul*: Yes, the tester found the location. 
+ - *Mimi*: Tester found station very easily
+ - *Miami Biker / Commuter *: The tester first read the destination section and looked up 'Freedom Tower' and found the freedom tower station. The tester found that it didn't have what line it belonged to. The tester now found it on the map but it would be hard to know what route to take or what color it was. 
+ - *Lara*: Yes, They were able to find it.
+ - *hi*: yes
+ - *Travel Industry Professional Daily transit commuter. *: Found
+ - *anonymous on the internet*: Easily found
+
+###How did you know it was a Metromover station?
+ - *Oscarlopez*: The wording 
+ - *Jazzy Jaz*: She recalled the location from memory, and navigated to the stop with ease.
+ - *Jose*: I did not know that i was the metro mover station. I just searched for the name association.
+ - *Andrae*: It says it. 
+ - *miamigirl123*: Because it was listed on the Metromover pamphlet. 
+ - *Latinmiami73*: Self-Explanatory
+ - *Carlos*: USER ADMITTED HE USED PRIOR KNOWLEDGE, but he would've found where it is by navigating the map
+ - *Ruth*: From memory, Having grown up here. 
+ - *Fabiola*: It's capitalized and has the circle next to it. 
+ - *JJ*: It's on the dark blue line. 
+ - *Edison, CUT group volunteer, transportation advocate*: All caps and bolded
+ - *motivator*: Because it is labeled on the map. 
+ - *Mike*: Memory
+ - *monicar*: It's clearly noted on the map. 
+ - *Beth Maps*: Because she is using metro mover pamphlet and she is familiar with the omni loop because she has used the service before. 
+ - *User*: Because it has a circle
+ - *Tito*: Had personal exp. with location/station
+ - *City guy*: Looking at map refrence points. 
+ - *lcinmia*: I use it
+ - *Works downtown and uses metromover to move around downtown. *: i didn't, I just saw freedom tower
+ - *Return-advertiser*: Nice that they are pulled out to the side without any geographic context. As a native, I knew where to look on the map. I missed the whole left side completely with the destination and station though. It would be nice for there to be a column next to landmarks with the corresponding loop name or color.
+ - *Paul*: Follow the blue Omni loop shown on map. 
+ - *Mimi*: Because it was color coded dark purple. 
+ - *Miami Biker / Commuter *: The list said it was a station. 
+ - *Lara*: Memory. I've never been there but I see it all the time.
+ - *hi*: it has a name
+ - *Travel Industry Professional Daily transit commuter. *: Because it has a white circle on the map. 
+ - *anonymous on the internet*: Because it's a part of the Omni Loop, says Freedom Tower, and the little circle is there even though I don't know specifically what the individual little icon means. All the key items shows double dots. The bold all-caps station name helps.
+
+###Can you connect to a Metrobus here? (Yes or No)...How can you tell?
+ - *Oscarlopez*: No 
+ - *Jazzy Jaz*: Yes. Buses typically make stops at the station. 
+ - *Jose*: Yes 
+ - *Andrae*: No, it doesn't tell you where to find busses. Seems to need to know what loop includes which bus stops. Then the tester flipped the page and spent 30sec to review each sub location and bus route listing to find Freedom tower in Omni loop to see if Metrobus stopped there. 
+ - *miamigirl123*: Yes. As it appears on the map it appears to be  relatively close to other buses that connect you to your destination. 
+ - *Latinmiami73*: Unsure due to lack of signage on map.
+ - *Carlos*: no
+ - *Ruth*: yes, i know that i can catch the 3 and the s. 
+ - *Fabiola*: No. I do not know. It doesnt say if there is a bus there. 
+ - *JJ*: Yes. Scanned through list to Omni Loop and Freedom tower sub category. Found bus listing there. 
+ - *Edison, CUT group volunteer, transportation advocate*: Yes, he had to take the bus.
+ - *motivator*: Yes. Because the pamphlet shows the information on the Metrobuses. 
+ - *Mike*: No. I don't see any actual connection shown. The only one II see is the Downtown Bus terminal. If next to the station there was a symbol of a bus. That would be more helpful
+ - *monicar*: The tester is checking the "Stations Serving Omni Loop only" and under Freedom Tower and can see that yes, they can take Metrobuses shown as available. 
+ - *Beth Maps*: Yes based on the pamphlet you can catch a bus. 
+ - *User*: She found it. She used the map and was able to tell by looking at it
+ - *Tito*: not sure, doesn't see bus line icon/title. Reviewed for 30 seconds and gave up. After 1 minute found full listing under Freedom Tower listing links 3, 6, 9, 93, Biscayne Max, C, S, 
+ - *City guy*: Yes only because I live on NE 2nd ave so I know the 9 the 2 and the 16 bus run on second ave. There should be a visual que. 
+ - *lcinmia*: y - text under state name IDs which buses
+ - *Works downtown and uses metromover to move around downtown. *: I would go back from the gov't center because that's what I know
+ - *Return-advertiser*: Yes, but via the Downtown Bus Terminal. The icon is a little hidden though. Would be nice to have a bus legend or larger icon.
+ - *Paul*: Yes
+ - *Mimi*: Tester is not able to find a bus station
+ - *Miami Biker / Commuter *: The tester would not know how to know if they are able to connect to a Metrobus
+ - *Lara*: No. 
+ - *hi*: no can't tell
+ - *Travel Industry Professional Daily transit commuter. *: Yes tester looked at the pamphlet and went to the section of other transit connections. 
+ - *anonymous on the internet*: 
+
+###What is the name of the loop this station is on?
+ - *Oscarlopez*: Omni loop
+ - *Jazzy Jaz*: College Bayside.
+ - *Jose*: The Omni Loop.
+ - *Andrae*: Omni - compared the colors in the legend
+ - *miamigirl123*: 
+ - *Latinmiami73*: "omni loop" found easily.
+ - *Carlos*: 
+ - *Ruth*: Omni loop. Tester used the legend on the right to find it. 
+ - *Fabiola*: 
+ - *JJ*: Omni Loop
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: 
+ - *Mike*: Omni loop. 
+ - *monicar*: The user was able to find Omni Loop. 
+ - *Beth Maps*: Omni Loop
+ - *User*: Yes
+ - *Tito*: Omni Loop, yes
+ - *City guy*: "navy loop" Refers to color. 
+ - *lcinmia*: Omni
+ - *Works downtown and uses metromover to move around downtown. *: omni loop
+ - *Return-advertiser*: Omni Loop
+ - *Paul*: 
+ - *Mimi*: Omni Loop
+ - *Miami Biker / Commuter *: Omni Loop. Yes 
+ - *Lara*: 
+ - *hi*: omni
+ - *Travel Industry Professional Daily transit commuter. *: Omni Loop
+ - *anonymous on the internet*: 
+
+###Find the "Government Center" Metrorail station.
+ - *Oscarlopez*: Easy to find
+ - *Jazzy Jaz*: Yes the tester was able to easily find the location.
+ - *Jose*: Tester immediately knew where the location was because they are a frequent user there.
+ - *Andrae*: Very Quickly. Yes.
+ - *miamigirl123*: The tester found it. 
+ - *Latinmiami73*: Easily found the station on the map.
+ - *Carlos*: User found it pretty easy
+ - *Ruth*: Tester found the station easily. 
+ - *Fabiola*: Tester found the center easily.
+ - *JJ*: Glanced quickly and located it. Yes
+ - *Edison, CUT group volunteer, transportation advocate*: He was able to find it pretty easy, with no hiccups
+ - *motivator*: Yes the tester found the location. 
+ - *Mike*: Yes. Easily located.
+ - *monicar*: Yes, the tester was able to find it. It is listed in the larger font on the map. 
+ - *Beth Maps*: Found 
+ - *User*: Yes found it pretty easier, the bold highlight was the main point.
+ - *Tito*: Quickly found via larger map. yes.
+ - *City guy*: Found with ease.
+ - *lcinmia*: Y
+ - *Works downtown and uses metromover to move around downtown. *: yes
+ - *Return-advertiser*: Found immediately
+ - *Paul*: Yes, tester found the location. 
+ - *Mimi*: Tester found it
+ - *Miami Biker / Commuter *: The tester was able to find it on the center of the map. 
+ - *Lara*: Yes. I've been there before.
+ - *hi*: yes
+ - *Travel Industry Professional Daily transit commuter. *: Found
+ - *anonymous on the internet*: I already know where it's located. It must be where all the loops meet.
+
+###How did you know it was a Metrorail station?
+ - *Oscarlopez*: It says it transfer to metrorail
+ - *Jazzy Jaz*: Memory. "Ive been there before"
+ - *Jose*: The name is clearly printed on the map.
+ - *Andrae*: On the route list side, mentions transfer to metrorail
+ - *miamigirl123*: Because below the Government Center heading it details "transfer to Metrorail" which indicated that the rider would be able to hop on the Metrorail. 
+ - *Latinmiami73*: I see the two lines that say metro-rail, I don't see it listed on the legend.
+ - *Carlos*: because he knew and I asked him about it
+ - *Ruth*: Tester has been there in the past. Recalls from memory.
+ - *Fabiola*: The map says there is a transfer to metrorail under the title. 
+ - *JJ*: Noticed language on Map under Gov. Center. Noticed secondary listing on Gov. Center.
+ - *Edison, CUT group volunteer, transportation advocate*: There's 5 dots and it has two extra lines next to it
+ - *motivator*: Because under Government Center on the map is says transfer to Metrorail. 
+ - *Mike*: The line says metrorail but there should be a little symbol next to the name. I only knew from memory
+ - *monicar*: Because it says "transfer to Metrorail" in the smaller font on the map. 
+ - *Beth Maps*: On the pamphlet it says Metro Rail for that station. 
+ - *User*: The circles
+ - *Tito*: Lots of dots must mean transfer to Metrorail. 
+ - *City guy*: It's cleary indicated as a transfer to metrorail. 
+ - *lcinmia*: I take the MetroRail and transfer to MetroMover occasionally
+ - *Works downtown and uses metromover to move around downtown. *: it says to transfer to metrorail. and matched it up
+ - *Return-advertiser*: Because the icon connects across and is open to the north/south metrorail line. Since it's the metromover map I think you can get by on not mentioning whether the orange is south, green north etc.
+ - *Paul*: It says it under "Government Center" on the map. 
+ - *Mimi*: Because of the color codes
+ - *Miami Biker / Commuter *: The tester knew because it says "Transfer to Metrorail" on it and it has the interlocking circles. 
+ - *Lara*: Tester did not really know. She says theres alot of stuff going on near gov center on the map but she just knows because she's been there before.
+ - *hi*: its shows it. 
+ - *Travel Industry Professional Daily transit commuter. *: Because it says Government Center. 
+ - *anonymous on the internet*: Because the crossing orange/ green lines show include the metrorail label.
+
+###Now, show me how you would take the Metromover from Tenth Street Promenade to Government Center. ... How many stations did you pass through (not including the origin or destination)?...Did you make any transfers? (Yes or no)    ...If Yes, How did you know you could transfer there?
+ - *Oscarlopez*: Brick elk loop north
+Knight center transfer to inner loop
+ - *Jazzy Jaz*: Stay on the brickell loop and pass Bayfront, First street, college bayside, college northside, Wikie D Ferguson, and then get off at Gov. Center.
+ - *Jose*: I would have to take the Brickell loop to the Knight Centre station and transfer to the inner loop. the option to go around is there but not necessary.
+ - *Andrae*: 9 stations.. 9 stops. no overlaps. No. 
+ - *miamigirl123*: The user would have to pass by Ten Station in order to get to their destination. The rider would not have to transfer to any other bus. 
+ - *Latinmiami73*: "Take the brickell loop northbound, unless you get off at Knight Center, and then take the Inner Loop going north. I would make transfers at Knight Center." 
+ - *Carlos*: from here take the brickell loop all around, 6 stations, and yes made transfers, he didn't know he assumed and used prior knowledge because it was not easy to find out
+ - *Ruth*: Take brickell loop all the way around and get off at government center.
+ - *Fabiola*: I'd take the 10th s prom brickell loop and stop and bayfront park and then take the inner loop get off at Government Center. Or I can take the omni loop and continue all the way around.
+ - *JJ*: Looked at Map, found each location. Brickell loop transfer to inner loop to Gov. Station. 5 Stations passed, one transfer at Knight Center. 
+ - *Edison, CUT group volunteer, transportation advocate*: 10, or 6. It didn't seem that much of difference. The second option transfer to the inner loops. So Yes, he recognized it was a transfer station
+ - *motivator*: From Tenth Street Promenade I took the Brickell Loop to Government Center without having to transfer & I passed through 9 stations. Or I could transfer as well at Knight Center to the Inner Loop which has 6 stations. 
+ - *Mike*: I would go 10th street to knight center, then take knight center to government center. 
+ - *monicar*: The tester is looking for Tenth Street Promenade on the map and found it at the bottom of the map on the Brickell Loop. The tester can see that there are two ways to get there. Tester says: I can take the Brickell Loop all the way around to Government Center and passed 9 stations or take the Brickell Loop to Knight Center, where 5 stations were passed and transfer to the inner loop, where I can go shorter distance to the Government Center. 
+ - *Beth Maps*: Go to Tenth street station and and pass through nine stations. User used correct direction. 
+ - *User*: She likes to be active and would preferred to walk or take uber, she did not have to take transfers as she stayed on the orange lines
+ - *Tito*: To Brickell to Knight Center Transfer Inner Loop and continue on Inner Loop to Gov. Center. 4 stations stopped at, one transfer. 
+ - *City guy*: "head northbound from 10th street and get off at knights center and then trasnfer from the orange line to the light blue line, and it's 2 stations ahead." Tester refers to the lines based on color and not legend. 
+ - *lcinmia*: 5/yes, I transfer / shows on map
+ - *Works downtown and uses metromover to move around downtown. *: brickell loop would take me there.  6 stations. no transfers. 
+ - *Return-advertiser*: Take Brickell Loop, and get off at Knight station to transfer to inner loop. I go West to the Gov Center station. It helps that it's only one way.
+ - *Paul*: I would take the Brickell loop and get off at the Knight Center, then transfer to the inner loop, which leads to Governent Center. There were 5 station stops. 
+ - *Mimi*: Hop on the Brickell Loop four stops to Knight center then transfer to inner loop and two stops is government center. 
+ - *Miami Biker / Commuter *: Tester would hop on going northbound on the Brickell Loop. Depending on how much time I had I would take the whole roundabout Brickell Loop or Transfer to the Inner Loop. I passed 8 stations on Brickell Loop and 4 on the Transfer. In the second option the tester did transfer. 
+ - *Lara*: I can stay on the same loop or if I want to go faster I can get off at the knight center and then transfer to the inner loop to get to goverment center.
+ - *hi*: brickell loop. 4 stations before transfer to inner loop and then 2 more stations. 
+ - *Travel Industry Professional Daily transit commuter. *: From tenth Street and tranfer at Knight Center to blue line to government center. That was a total of five stops. 
+ - *anonymous on the internet*: Having a tough time finding tenth street promenade and is looking at NE 10th st instead. Now realises he needs to get on the Brickell Loop, get off at Knight Center, take Inner Loop and head north to Gov. Center.
+
+###How could the map be improved to make transfers from Metromover to Tri-Rail and vice versa easier?
+ - *Oscarlopez*: N/a
+ - *Jazzy Jaz*: The process is easy as it is.
+ - *Jose*: Tester couldn't find the transfer to Trirail on the map.
+ - *Andrae*: No tri-rail prominently featured 
+ - *miamigirl123*: 
+ - *Latinmiami73*: N/A
+ - *Carlos*: he doesn't see a tri trail
+ - *Ruth*: n/a
+ - *Fabiola*: n/a
+ - *JJ*: SKIP
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: 
+ - *Mike*: n/a
+ - *monicar*: 
+ - *Beth Maps*: Pamphlet does not say anything about Tri-Rail. 
+ - *User*: 
+ - *Tito*: SKIP
+ - *City guy*: n/a
+ - *lcinmia*: See extensive comments above
+ - *Works downtown and uses metromover to move around downtown. *: to the trirail? I don't even know what it is! they could indicate it where it is. would have to get off and catch a bus or a station on 79th st. 
+ - *Return-advertiser*:  I'd say it's pretty clear, especially with the instructions in parenthesis. 
+ - *Paul*: 
+ - *Mimi*: Tester feels the map is fine as is. 
+ - *Miami Biker / Commuter *: Making it one of the destinations on the side. 
+ - *Lara*: n/a
+ - *hi*: no tri-rail connection downtown yet. would not know about it from this map. 
+ - *Travel Industry Professional Daily transit commuter. *: Make Metro Rail Text Larger and in black, also at black line with tracks so people could see its a different form of transportation. Add arrows hat point to Tri-Rail (Air Port stations and South Miami ect.)
+ - *anonymous on the internet*: Pretty self-explanatory except for when they hit Fifth Street or Knight Center stations. They may stay on until they hit Gov. Center not knowing they could take a quick transfer.
+
+###Find the "Omni Bus Terminal".
+ - *Oscarlopez*: Pointed to it
+ - *Jazzy Jaz*: Yes they were able to find the location.
+ - *Jose*: Tester immediately recognized the Omni loop to begin searching for the Omnibus Terminal. Tester found the Omni bus terminal in the Arsht Centre Omni loop.
+ - *Andrae*: Scanning the Listing page. Found after 15-20 seconds. Yes. 
+ - *miamigirl123*: The tester is looking for Omni Bus Terminal on the pamphlet and trying to find it on the map but could not find it. 
+ - *Latinmiami73*: "There are still people that identify it as Omni and it's kinda confusing on the map because I thought it was the AA center." The tester found the bus station though.
+ - *Carlos*: he is looking for it, turned the page, examined, and couldn't find it
+ - *Ruth*: "You changed the name and it confuses everyone now." "Dont mess with what isnt broken."
+ Found the location regardless. 
+ - *Fabiola*: Very difficult to find due to it being extremely small on the map. Bus terminals should be a seperate color.
+ - *JJ*: Looked on Omni Loop bc name was the same, checking on map first but not listed so checked the Serving Omni Only listing description. Located under Adrienne Arsht Center sub group, 10-15 seconds of searching.
+ - *Edison, CUT group volunteer, transportation advocate*: He is having difficulty on finding it. He had to think about and had no idea.
+ - *motivator*: No the tester could not find the location on the map. 
+ - *Mike*: Up at the top. Easily noticed.
+ - *monicar*: The tester is looking at the map and cannot find Omni Bus Terminal, but was then able to find it under the list called "Stations Serving Omni Loop Only". 
+ - *Beth Maps*: Omni Bus Terminal is by the Adrienne Arsht Center
+ - *User*: She already knew that location, which didn't help, but was honest that it is not useful.
+ - *Tito*: Doesn't show on map, flips page, still not located, flips to full text section and scans for 15-20 seconds to find Omni Bus terminal. 
+ - *City guy*: I found it easily, but I noticed the Omni station was renamed to AA center. 
+ - *lcinmia*: y
+ - *Works downtown and uses metromover to move around downtown. *: Took a long time. 
+ - *Return-advertiser*: Found with some effort.
+ - *Paul*: The tester doesn't see it on the map. 
+ - *Mimi*: Tester found it throught the stations serving Omni section. 
+ - *Miami Biker / Commuter *: The tester was not sure where to look and look around the entire map. They would get there by following the Omni Loop. 
+ - *Lara*: Finds it diffficult. Taking a while to locate the stop. Too small to locate.
+ - *hi*: yes - but knowing where to look it was hard to find. 
+ - *Travel Industry Professional Daily transit commuter. *: Adrienne Arsht Center Station 
+ - *anonymous on the internet*: Found on the North end, by the Omni Loop/ Arscht Center.
+
+###How did you know it was a bus terminal?
+ - *Oscarlopez*: Blue is omni 
+And saw it on the map
+ - *Jazzy Jaz*: the map said "transfer to omni loop and I remember it being a bus terminal"
+ - *Jose*: I did not know that i was a bus terminal so i had to look around for it.
+ - *Andrae*: It mentions Bus Terminal. 
+ - *miamigirl123*: 
+ - *Latinmiami73*: Because it says bus terminal under it. 
+ - *Carlos*: 
+ - *Ruth*: Memory. 
+ - *Fabiola*: 
+ - *JJ*: Listed as "Terminal" station under AA Center listing description.
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: 
+ - *Mike*: Its very small but I was able to find it. There should be the actual symbol next to the station name. Too much text. 
+ - *monicar*: The words "bus terminal" is shown on the listing. 
+ - *Beth Maps*: Under the stations section Omni Bus Center in on the list. 
+ - *User*: Because it says bus terminal
+ - *Tito*: Read the text under the "Stations serving Omni bus loop only" and title helped. 
+ - *City guy*: Based off the iconography. 
+ - *lcinmia*: I've used it
+ - *Works downtown and uses metromover to move around downtown. *: it said bus and i scanned the map. 
+ - *Return-advertiser*: Because of the bus icon, and it saying bus. 
+ - *Paul*: 
+ - *Mimi*: Because it is written in the pamphlet as a bus terminal. 
+ - *Miami Biker / Commuter *: Adrienne Arsht Center says Omni bus Terminal. It was hard to see but it has a bus and was labeled. 
+ - *Lara*: 
+ - *hi*: It says bus (but icon is really small). same font of other text makes it difficult. 
+ - *Travel Industry Professional Daily transit commuter. *: It says bus terminal and there is a bus icon.
+ - *anonymous on the internet*: Says bus terminal + has the really small bus icon
+
+###Which buses can you connect to here?
+ - *Oscarlopez*: Brochure provide the information 
+ - *Jazzy Jaz*: Metro 6 Bus, Metro Bus 3, 9, 93, Biscayne Max, C, S, and 120 Beach MAX
+ - *Jose*: Metrobus 3,16,32,C,M,S,120, Beach,MAX.
+ - *Andrae*: 3, 16, 32, C, M, S, 120 Beach Max
+ - *miamigirl123*: 
+ - *Latinmiami73*: S, c, 120, 3, 93, m, 32.
+ - *Carlos*: 
+ - *Ruth*: 3, s, 120, 93 weekdays, c, 16. 
+ - *Fabiola*: 
+ - *JJ*: Checked full list: metrobus 3, 16, 32, C, M, S, and 120 Beach Max
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: 
+ - *Mike*: The miami beach bus. 
+ - *monicar*: You can connect via Metrobus 3, 16, 32, C, M, S, and 120 Beach MAX. 
+ - *Beth Maps*: 3,16,32,C,M,S 120 Beach Max
+ - *User*: She figured out that it was 
+ - *Tito*: 3, 6, 32, C, M, S, 120 Beach Max
+ - *City guy*: Alot of buses but it's not publically indicated In my opinion. 3, 9, 16. 
+ - *lcinmia*: Beach Max and more. Buses at terminal vs other buses are confusing. Some are at terminal and some are not ID'd as to why they are separated by the Trolley
+ - *Works downtown and uses metromover to move around downtown. *: no idea
+ - *Return-advertiser*: I guess 14th street. It doesn't say. This question doesn't make sense here. I'll just say a bus.
+ - *Paul*: 
+ - *Mimi*: 3,16,32,C,M,S, 120 Beach Max
+ - *Miami Biker / Commuter *: The Omni Bus Station and the Downtown Bus Terminal 
+ - *Lara*: 
+ - *hi*: no
+ - *Travel Industry Professional Daily transit commuter. *: 3,6,32,C,M,S 120 Beach Max
+ - *anonymous on the internet*: 
+
+###Find the station closest to “Bayside Marketplace.” (Remember to use only information on the map.)
+ - *Oscarlopez*: College / bayside
+ - *Jazzy Jaz*: College/Bayside. A bit slow to find the 
+ - *Jose*: Tester found College/Bayside station to be closest from Bayside Marketplace.
+ - *Andrae*: Scanned the listing side. Found heading for section. Since it lapsed separately on the bottom. 
+ - *miamigirl123*: The tester looked at map and answered Bayfront Park is closest station. They could not find closest station. 
+ - *Latinmiami73*: "college bayside" found with ease.
+ - *Carlos*: he assumes is the college bayside because he doesn't see any attractions and can use context clues to  make the assumptions
+ - *Ruth*: college/ bayside. Tester easily found this. 
+ - *Fabiola*: College/Bayside.
+ - *JJ*: Looked on Serving Omni Loop Only then found light blue section with Bayside Marketplace listed, and then found College/Bayside inner loop title. Yes.
+ - *Edison, CUT group volunteer, transportation advocate*: He is assuming 
+ - *motivator*: Yes, the tester was able to find College/Bayside. 
+ - *Mike*: College/Bayside. Answered immediately. 
+ - *monicar*: Yes, the user identified the closest as College/Bayside. 
+ - *Beth Maps*: College Bayside Station
+ - *User*: College/Bayside
+ - *Tito*: Looking at map, College Bayside, Yes. Thinks Bayside has an association with "Bayside" itself. Gentleman also lives in area and has an experience with location. Would be difficult to locate if not a resident. After 1 min. noticed title and color line matches. Did not find the text of "Bayside Marketplace" until pointed out 2 minutes after question asked. Noticed spots are not listed alphabetically. Must review all of them to find one. 
+ - *City guy*: College/Station. First answer was bayfront park because of the association with the name. But then changed. 
+ - *lcinmia*: College/Bayside
+ - *Works downtown and uses metromover to move around downtown. *: bayfront park
+ - *Return-advertiser*: College/ Bayside
+ - *Paul*: The tester answered Bayfront Park. 
+ - *Mimi*: College Bayside
+ - *Miami Biker / Commuter *: College/Bayside
+ - *Lara*: College/ Bayside. Easily able to find the closet station.
+ - *hi*: college bayside
+ - *Travel Industry Professional Daily transit commuter. *: College Bayside
+ - *anonymous on the internet*: Is ignoring the left side of the map, closest to College/ Bayside.
+
+###Proctors only: The closest station is "College/ Bayside". Was the user able to find this location?
+ - *Oscarlopez*: User performed the task quickly with no trouble
+ - *Jazzy Jaz*: User performed the task, but had struggles
+ - *Jose*: User performed the task quickly with no trouble
+ - *Andrae*: User performed the task quickly with no trouble
+ - *miamigirl123*: User couldn't perform the task
+ - *Latinmiami73*: User performed the task quickly with no trouble
+ - *Carlos*: User performed the task quickly with no trouble
+ - *Ruth*: User performed the task quickly with no trouble
+ - *Fabiola*: User performed the task quickly with no trouble
+ - *JJ*: User performed the task quickly with no trouble
+ - *Edison, CUT group volunteer, transportation advocate*: User performed the task quickly with no trouble
+ - *motivator*: User performed the task quickly with no trouble
+ - *Mike*: User performed the task quickly with no trouble
+ - *monicar*: User performed the task quickly with no trouble
+ - *Beth Maps*: User performed the task quickly with no trouble
+ - *User*: User performed the task quickly with no trouble
+ - *Tito*: User couldn't perform the task
+ - *City guy*: User performed the task, but had struggles
+ - *lcinmia*: User performed the task quickly with no trouble
+ - *Works downtown and uses metromover to move around downtown. *: User couldn't perform the task
+ - *Return-advertiser*: User performed the task quickly with no trouble
+ - *Paul*: User couldn't perform the task
+ - *Mimi*: User performed the task quickly with no trouble
+ - *Miami Biker / Commuter *: User performed the task quickly with no trouble
+ - *Lara*: User performed the task quickly with no trouble
+ - *hi*: User performed the task quickly with no trouble
+ - *Travel Industry Professional Daily transit commuter. *: User performed the task quickly with no trouble
+ - *anonymous on the internet*: User performed the task quickly with no trouble
+
+###Now, show me how you would use the Metromover to go from Omni Bus Terminal to College/Bayside station.
+ - *Oscarlopez*: Omni loop south
+Transfer college north to the inner loop
+To college bayside
+ - *Jazzy Jaz*: Start at the Freedom tower station, pass college/bayside, pass 1st street station, and then arrive at bayfront park.
+ - *Jose*: I could take the Omni loop metro mover and wait till it goes all the way around or change to inner loop at College North station.
+ - *Andrae*: At first, didn't see Omni Bus Terminal on route map, but did see on listing.  Get on at AA Center station, go around Omni loop but get off and take innerloop transfer at CollegeNorth and get off at College/Bayside.
+ - *miamigirl123*: In order to go from Omni Bus Terminal to College Bayside station the rider would have to pass by 13 stations. They would first start off at Adrienne Arsht Center & then continue to the College Bayside destination. No transfers. 
+ - *Latinmiami73*: "I would take the omni loop, get off at college north, and then walk to college/bayside. If I was disabled Id take the inner loop to college bayside southbound."  
+ - *Carlos*: follow's the route, the purple omni loop, follow it all around, transfer to the inner loop and transfer to bayside
+ - *Ruth*: Take the omni loop all the way around, because transfering is too confusing. 
+ - *Fabiola*: I would take the omni loop south bound and then transfer at college north to get to college/bayside. 
+ - *JJ*: Found the AA Center>Taking omni loop to College North transfer to Inner Loop> Inner Loop to College Bayside
+ - *Edison, CUT group volunteer, transportation advocate*: Take it down to inner loop, hop of there and then go
+ - *motivator*: What I would do is take the Omni Loop from the School Board station since it is the closest station to the Omni Bus terminal. I would take it to College Bayside which is a total of 4 stops. There are no transfers. 
+ - *Mike*: I would take the omni loop to college north, then transfer to inner loop to college bayside. 
+ - *monicar*: The user said: I know from having used the listing showing the stations serving Omni only, the bus terminal is at the Adrienne Arsht Center, so I would start there. Taking the Omni Loop, I would go South and pass 5 stations until I reach College North. There I would transfer to Inner Loop, 1 station until I get to College/Bayside. 
+ - *Beth Maps*: Take Omni Loop and take it al around the loop to College Bayside Station. 
+ - *User*: She would take the purple loop and to help , 
+ - *Tito*: Using map (points out how the Omni Bus Terminal isn't on map) knows that near AA Center, transferring College North to Inner Loop to College Bayside. 
+ - *City guy*: Head southbound on the navy route, and get off at freedomtower and walk one block east.
+ - *lcinmia*: Omni loop change at College North to other direction to College/Bayside
+ - *Works downtown and uses metromover to move around downtown. *: I would get on the omni loop and get off right there
+ - *Return-advertiser*: Take the Omni Loop south, all the way until College North Station to then transfer via the Inner Loop to College/ Bayside.
+ - *Paul*: From Omni Bus Terminal, they would take it to College North, then take inner loop to College Bayside. That includes a total of 5 station stops. 
+ - *Mimi*: Adrienne Arsht station and ride that for five stops and tranfer to inner loop at College North and the next stop is College Bayside
+ - *Miami Biker / Commuter *: Hop on the Omni Bus Terminal and take it to down to College North and then transfer to the inner loop blue side. If there was a lot of time they would take it all they way around on the Omni Loop. 
+ - *Lara*: I would take the omni loop to college north, and then transfer to inner loop and get off at college/bayside station.
+ - *hi*: omni southbound to college N. transfer to inner loop to the station. 
+ - *Travel Industry Professional Daily transit commuter. *: Take from Adrienne Arsht Center to College North then take the inner loop all the way to College Bayside. 
+ - *anonymous on the internet*: Take Omni Loop South + get off at College North and transfer via the Inner Loop to get off at College/Bayside.
+
+###How many stations did you pass through, not including the origin or destination?
+ - *Oscarlopez*: 6
+ - *Jazzy Jaz*: 3
+ - *Jose*: 5
+ - *Andrae*: 2
+ - *miamigirl123*: 12
+ - *Latinmiami73*: 4
+ - *Carlos*: 5
+ - *Ruth*: 9
+ - *Fabiola*: 5
+ - *JJ*: 5
+ - *Edison, CUT group volunteer, transportation advocate*: 5
+ - *motivator*: 4
+ - *Mike*: 5
+ - *monicar*: 5
+ - *Beth Maps*: 9
+ - *User*: 5
+ - *Tito*: 6
+ - *City guy*: 3
+ - *lcinmia*: 5
+ - *Works downtown and uses metromover to move around downtown. *: 10
+ - *Return-advertiser*: 5
+ - *Paul*: 5
+ - *Mimi*: 5
+ - *Miami Biker / Commuter *: 5
+ - *Lara*: 5
+ - *hi*: 5
+ - *Travel Industry Professional Daily transit commuter. *: 5
+ - *anonymous on the internet*: 5
+
+###Did you make any transfers?
+ - *Oscarlopez*: 1
+ - *Jazzy Jaz*: 0
+ - *Jose*: 1
+ - *Andrae*: 1
+ - *miamigirl123*: 0
+ - *Latinmiami73*: 0
+ - *Carlos*: 1
+ - *Ruth*: 0
+ - *Fabiola*: 1
+ - *JJ*: 1
+ - *Edison, CUT group volunteer, transportation advocate*: 1
+ - *motivator*: 0
+ - *Mike*: 1
+ - *monicar*: 1
+ - *Beth Maps*: 0
+ - *User*: 1
+ - *Tito*: 1
+ - *City guy*: 0
+ - *lcinmia*: 1
+ - *Works downtown and uses metromover to move around downtown. *: 0
+ - *Return-advertiser*: 1
+ - *Paul*: 1
+ - *Mimi*: 1
+ - *Miami Biker / Commuter *: 1
+ - *Lara*: 1
+ - *hi*: 1
+ - *Travel Industry Professional Daily transit commuter. *: 1
+ - *anonymous on the internet*: 1
+
+###Describe how you would get from the Brickell Loop to a station in the Omni Loop, for instance, your current location (Eighth Street Station) to the Adrienne Arsht Center.
+ - *Oscarlopez*: Has to be a transfer point 
+ - *Jazzy Jaz*: Go to first street station, river walk station, bayfront par station, then transfer to get on the omni loop, and then go past 1st, college station, Freedom, parkwest, Musuem, and then get off at Adrienne Arscht. 
+ - *Jose*: In this case i would prefer to change from the Brickell loop to the Omni loop at college/bayside station, but could transfer to Knight Centre, First street, bayfront park, or College/bayside.
+ - *Andrae*: Transfer at Knight Center to Inner Loop to Omni Loop
+ - *miamigirl123*: First the rider would start off on Brickell Loop and then transfer to the Omni Loop, where as that would lead them to the Arsht Center. 
+ - *Latinmiami73*: "I always do this, I'd take the brickell loop northbound to college bayside, and from there I would take the omni loop northbound to the AA Center." 
+ - *Carlos*: not sure if the Adrienne Arsht center, knight center throws him off because it is not clear
+ - *Ruth*: The process is easy now because I learned it, but I know alot of people that are still confused when it comes to transfering 
+ - *Fabiola*: "I would transfer at the Knight center and get on the omni loop to get to the AA center.
+ - *JJ*: Take brickell loop to Knight Center and transfer to Omni Loop
+ - *Edison, CUT group volunteer, transportation advocate*: Get on at 8th Street, depending on the mood he would get on the train
+ - *motivator*: I would take the Brickell Loop to College Bayside & transfer over to the Omni Loop. I would then take the Omni Loop to the Adrienne Arsht Center. 
+ - *Mike*: The main transfers would be knight center station, college north, and college bayside. The process is easy. 
+ - *monicar*: I would get on Eight Street Station and get off on the Knight Center station, then transfer to Omni Loop and go 6 stations to reach the Adrienne Arsht Center. 
+ - *Beth Maps*: Take Brickell Loop to River Walk station then take Omni Loop North and pass seven stations. 
+ - *User*: Take the brickell loop, transfer at the knight center and take the omni bus
+ - *Tito*: From Brickell Loop make a transfer at Knight Center to use Omni Loop all the way to final destination. 
+ - *City guy*: Northbound and make the transfer at knight center to the navy line and then stay on until reaching the destination. 
+ - *lcinmia*: duplicate Q
+ - *Works downtown and uses metromover to move around downtown. *: i would get on the brickell loop and transfer to colloege bayside and that that to the center. 
+ - *Return-advertiser*: Go north on Brickell Loop and transfer at the Knight Center Station, NEVERMIND, it says you have to transfer to inner loop. I would leave the station and walk across the street to the other Knight Center station to get on Omni Loop.
+ - *Paul*: I would take Eight Street station to the Knight Center, then jump on to Omni Loop all the way to the Arsht Center. 
+ - *Mimi*: Get on Eight Street Station then transfer to Omni at night center or College Bayside. 
+ - *Miami Biker / Commuter *: Would take Brickell Loop up to College/Bayside and transfer to the Omni Loop and take that all the way up. 
+ - *Lara*: At knight center I would transfer to the omni loop and then go northbound until the Adrienne Arsht Center.
+ - *hi*: brickell loop and transfer at first possible station (knight center) to omni
+ - *Travel Industry Professional Daily transit commuter. *: Get on eigth street to Knight Center or College Bayside and tranfer to Omni Loop going North. 
+ - *anonymous on the internet*: Start at the Knight Center and get off to transfer to the Omni Loop and get off at Museum Park for the new science museum.
+
+###Find the station closest to the “Miami Federal Courthouse Complex.”
+ - *Oscarlopez*: College north
+ - *Jazzy Jaz*: Government Station
+ - *Jose*: College North.
+ - *Andrae*: College North. Faster this time.
+ - *miamigirl123*: The tester answered the closest is College North. Yes they found it. 
+ - *Latinmiami73*: n/a
+ - *Carlos*: he knew it right away
+ - *Ruth*: n/a
+ - *Fabiola*: n/a
+ - *JJ*: College North
+ - *Edison, CUT group volunteer, transportation advocate*: Found it pretty easy.
+ - *motivator*: 
+ - *Mike*: n/a
+ - *monicar*: 
+ - *Beth Maps*: College North
+ - *User*: already answered 
+ - *Tito*: College north
+ - *City guy*: n/a
+ - *lcinmia*: College North
+ - *Works downtown and uses metromover to move around downtown. *: college N
+ - *Return-advertiser*: repeat
+ - *Paul*: 
+ - *Mimi*: College North
+ - *Miami Biker / Commuter *: 
+ - *Lara*: n/a
+ - *hi*: repeat question 
+ - *Travel Industry Professional Daily transit commuter. *: College North
+ - *anonymous on the internet*: 
+
+###Proctors only: The best answer is "College North". How easily did the user perform this task?
+ - *Oscarlopez*: User performed the task quickly with no trouble
+ - *Jazzy Jaz*: User performed the task quickly with no trouble
+ - *Jose*: User performed the task quickly with no trouble
+ - *Andrae*: User performed the task quickly with no trouble
+ - *miamigirl123*: User couldn't perform the task
+ - *Latinmiami73*: User performed the task, but had struggles
+ - *Carlos*: User performed the task, but had struggles
+ - *Ruth*: User performed the task quickly with no trouble
+ - *Fabiola*: User performed the task quickly with no trouble
+ - *JJ*: User performed the task, but had struggles
+ - *Edison, CUT group volunteer, transportation advocate*: User performed the task quickly with no trouble
+ - *motivator*: User performed the task quickly with no trouble
+ - *Mike*: User performed the task quickly with no trouble
+ - *monicar*: User performed the task quickly with no trouble
+ - *Beth Maps*: User performed the task quickly with no trouble
+ - *User*: User performed the task quickly with no trouble
+ - *Tito*: User couldn't perform the task
+ - *City guy*: User performed the task quickly with no trouble
+ - *lcinmia*: 
+ - *Works downtown and uses metromover to move around downtown. *: User performed the task, but had struggles
+ - *Return-advertiser*: User performed the task quickly with no trouble
+ - *Paul*: User performed the task quickly with no trouble
+ - *Mimi*: User performed the task quickly with no trouble
+ - *Miami Biker / Commuter *: User performed the task quickly with no trouble
+ - *Lara*: User performed the task, but had struggles
+ - *hi*: User performed the task quickly with no trouble
+ - *Travel Industry Professional Daily transit commuter. *: User performed the task quickly with no trouble
+ - *anonymous on the internet*: User performed the task quickly with no trouble
+
+###Show me how you would take the “Full Loop” from Brickell station to College North.
+ - *Oscarlopez*: Brick elk loop north
+Nine stations
+No transfer 
+ - *Jazzy Jaz*: Get on the brickell loop, continue until Bayfront Park Station, Get off at Bayside, then continue on the omni loop, pass first street, college/bayside, then get off at Freedom Tower Station. 
+ - *Jose*: Tester passed through 9 stations and made a transfer to the Freedom Tower station. Tester did notice that the Out loop doesn't go directly from College/Bayside to College North.
+ - *Andrae*: Found locations on map. 13 stations, no transfers. No one-way mistakes. No. Take Brickell instead.
+ - *miamigirl123*: 
+ - *Latinmiami73*: Brickell loop northbound, without making any transfers and I would get off at the college north station. 
+ - *Carlos*: 18, no transfer, no, yes
+ - *Ruth*: I would continue on the brickell loop and then get off at college north station without any transfers.  
+ - *Fabiola*: I would take the brickell loop north and then transfer at the Knight center and then take the inner loop to my destination.
+ - *JJ*: Noticed title change and flipped paper. Got on at Brickell and take it all the way to College North. 8/9 Would take inner loop but then realized it would take you in a circle past instead of walking one station over.
+ - *Edison, CUT group volunteer, transportation advocate*: "Just get on Brickell and get on all of the way, he found it pretty easy". No, transfers, The user did not go the wrong way, The user did not notice as he did not figure it out.
+ - *motivator*: I am not sure what would be the easiest way to go to College North because the full loop map shows 1 train going in 1 direction and the other train going in the other direction. It doesn't show which train would stop first. 
+ - *Mike*: Get on the brickell loop going north. The user did not notice that the outer loop doesnt go directly from college/bayside to college north. 
+ - *monicar*: The user says they would get on Brickell Station and pass 20 stations to arrive at College North. 
+ - *Beth Maps*: Get on Brickell and just stay on the mover to College North. 
+ - *User*: She would take the Brickell loop,  8  stations, no transfers, the user did not notices
+ - *Tito*: 
+ - *City guy*: "The advantage of the orange loop is that it's just a straight right, no transfer required and stops at colleg north station." 
+ - *lcinmia*: Go north, change at Freedom tower
+ - *Works downtown and uses metromover to move around downtown. *: could not find brickell station. would take brickell loop to college north. 6 stations. no transfers. no wrong way.  did not notice
+ - *Return-advertiser*: Started from BRICKELL CITY CENTRE, and traced along Brickell Loop to College north.
+ - *Paul*: I would take Brickell station full loop and first stop at Knight Center, then transfer to inner loop, which takes me directly to College North. 
+ - *Mimi*: Get on Brickell Station and take the mover all the way up then all the way back down a total of twenty stops
+ - *Miami Biker / Commuter *: Hop on Brickell Station and take it straight to College North. 1. 8 stations 2. no 3. No 4. No 
+ - *Lara*: I would stay in Brickell Loop all the way until I reached College North.
+ - *hi*: *brickell and brickell city center stations are confusing*  stay on brickell loop the whole way - 9 stations with no transfer
+ - *Travel Industry Professional Daily transit commuter. *: Get Brickell Center and take to Knight Center Tranfer to blue loop and ride four stations to College North. 
+ - *anonymous on the internet*: Head North and go to the Knight Center and transfer to get on the Inner Loop but I'm not sure if staying on Brickell Loop would be faster.
+
+###Show me how you would take the “Full Loop” from Brickell station to College North.... How many stations did you pass through (not including the origin or destination)?...Did you make any transfers? (Yes or no)    ...If Yes, How did you know you could transfer there?
+ - *Oscarlopez*: N/a
+ - *Jazzy Jaz*: Get on the brickell loop, continue until Bayfront Park Station, Get off at Bayside, then continue on the omni loop, pass first street, college/bayside, then get off at Freedom Tower Station. 
+ - *Jose*: I would take the full loop from Brickell station to freedom tower station and transfer to reach college North.
+ - *Andrae*: Found locations on map. 13 stations, no transfers. No one-way mistakes. No. Take Brickell instead.
+ - *miamigirl123*: First, I would hop on to full loop Brickell station and then hop off the Knight Center. Then transfer to inner loop which would take me directly to College North. 
+ - *Latinmiami73*: n/a
+ - *Carlos*: 18, no, n/a
+ - *Ruth*: n/a
+ - *Fabiola*: n/a
+ - *JJ*: See Above answer
+ - *Edison, CUT group volunteer, transportation advocate*: 
+ - *motivator*: 
+ - *Mike*: n/a
+ - *monicar*: 
+ - *Beth Maps*: Catch mover from Brickell station and take it north then back south to College North station
+ - *User*: already answered
+ - *Tito*: 15, no, no
+ - *City guy*: n/a
+ - *lcinmia*: 9/yes/bubbles side by side
+ - *Works downtown and uses metromover to move around downtown. *: brickell loop. 
+ - *Return-advertiser*: repeat
+ - *Paul*: 
+ - *Mimi*: Get on Brickell Station and go all the way north then all the way south twenty stops
+ - *Miami Biker / Commuter *: 
+ - *Lara*: n/a
+ - *hi*: repeat questions
+ - *Travel Industry Professional Daily transit commuter. *: From Brickell Station to Knight Center to College Point.
+ - *anonymous on the internet*: 
+
+###How could the map be improved to make the need for transfers more obvious?
+ - *Oscarlopez*: Na
+ - *Jazzy Jaz*: Larger Map and Font.
+ - *Jose*: User doesn't not see any trouble with the current transfer use.
+ - *Andrae*: Like current version.
+ - *miamigirl123*: I think they did a good job on the transfers. I wouldn't make any other suggestions. 
+ - *Latinmiami73*: "I think its's pretty much obvious as it is. Perhaps support for international languages (spanish, etc.) Choosing a languge in interactive maps would be great. Font should be a bit larger and colorful.  Atleast for major land-marks.
+ - *Carlos*: change the circle loops, change the reccomended transfer stations, make it different loops
+ - *Ruth*: Too many transfers, you dont really need the inner loop at all. Simply one transfer to omni and brickell. 
+ - *Fabiola*: The non closed circles are good, but then there are closed ones also at transfer stations and it makes no sense. 
+ - *JJ*: pretty simple already, shows transfer dots, "I like it" Could get confused though what loop each transfer is located.
+ - *Edison, CUT group volunteer, transportation advocate*: He gets it, it's very clear.
+ - *motivator*: Make it more colorful or use colorful symbols to differentiate the stops.
+ - *Mike*: n/a
+ - *monicar*: 
+ - *Beth Maps*: Make the tranfer stations more visible
+ - *User*: by making the direction of travel more obvious
+ - *Tito*: "T" icons showing available transfer stops. 
+ - *City guy*: No I think the map is very user friendly and easy to identify transfers.
+ - *lcinmia*: See extensive comments above
+ - *Works downtown and uses metromover to move around downtown. *: same thing. 
+ - *Return-advertiser*: Either remove the subtitle/ parenthesis to make it clear that station provides transfers via multiple loops. Explicitly stating inner loop doesn't seem inclusive of the other transfer options
+ - *Paul*: Highlight the transfer station and make them stand out. 
+ - *Mimi*: The circles make it obvious. 
+ - *Miami Biker / Commuter *: Having different maps per loop that would suggest transfers to get certain places. 
+ - *Lara*: "No I think I get it." Tester seems satisfied with the current transfer explanations on the map. However finds herself walking sometimes instead of wasting time doing a transfer. 
+ - *hi*: different spacing between the metromover lines. transferring is fairly obvious. 
+ - *Travel Industry Professional Daily transit commuter. *: Tester thinks its pretty good. 
+ - *anonymous on the internet*: 
+
+###Thanks, that was very helpful. If you’ll excuse me for a minute, I’m just going to see if the Designers have any follow-up questions they’d like me to ask you.
+ - *Oscarlopez*: Nona
+ - *Jazzy Jaz*: I think you improved it because it listed where the buses are. Very Informative Map
+ - *Jose*: n/a
+ - *Andrae*: No
+ - *miamigirl123*: The designer spoke to the tester. 
+ - *Latinmiami73*: n/a
+ - *Carlos*: 
+ - *Ruth*: Full loop should be a regular thing. 
+ - *Fabiola*: n/a
+ - *JJ*: 'She wanted to take a map with her.'
+ - *Edison, CUT group volunteer, transportation advocate*: It makes sense and it is simplified.
+ - *motivator*: The designer spoke to tester.
+ - *Mike*: What is your overall rating for this map? (1-10) 
+Tester would give the map a 7. 
+
+I like the idea of the map being interactive and telling you the steps needed to arrive at your destination.
+ - *monicar*: The designer spoke to the tester. 
+ - *Beth Maps*: Designer spoke to tester and instructed tester how to properly transfer from stations. 
+ - *User*: 
+ - *Tito*: "Simple, good information but alphabetizing places would help." 
+ - *City guy*: Anything to tell the map designers? 
+
+"The map is great and the landmarks are identifiable. The seperate identifiers for the various loops is definitely a plus."
+ - *lcinmia*: none
+ - *Works downtown and uses metromover to move around downtown. *: system is busy. number system would be helpful. text is good, but numbers would make it more helpful. 
+ - *Return-advertiser*: Talking over the recommended transfer icons and how it's distracting to have in parenthesis. Easier to see the binded circles as a transfer icon.  
+ - *Paul*: The designer spoke to the tester. 
+ - *Mimi*: Tester said that the new map has good improvements
+ - *Miami Biker / Commuter *: General Impression: It's cool, it's a little busy. A lot of stuff going on and things that are not important for a lot of people. Could be cleaner. Too many words. The colors are confusing - too many shades of blue. Less obvious. Having things be more distinguishable. 
+ - *Lara*: "The map is great as it is. I'd give it a 9/10. Just add the hours to the map, so that people don't show up and see it closed and get dissapointed. Atleast they can read it earlier and know the hours beforehand." 
+ - *hi*: .
+ - *Travel Industry Professional Daily transit commuter. *: Tester suggested to put some hotels and hi lites of shopping centers and restaurants and public spaces like parks and walkways in different color codes. 
+ - *anonymous on the internet*: 
+
+###Proctors only: List the three most serious usability problems you observed.
+ - *Oscarlopez*: None
+ - *Jazzy Jaz*: The users main painpoints came from the small font found on the pamphlet and size of map image. Other than that, the user was able to easily find all points on the map either from memory, or context clues. 
+ - *Jose*: The main observed usability issue was the finding of the Tri-Rail location.
+ - *Andrae*: Flipping details back and forth. Finding headings on title group locations. Finding header titles on map.
+ - *miamigirl123*: Finding stations closest to testers original destination. 
+ - *Latinmiami73*: The tester says he normally would not use the left side "text" of the map. Therefore he had some trouble finding the exact court house and other landmarks. The tester also suggested using brighter colors and a larger fond/or highlighted font." Tester suggested using color to identify buroughs in Miami maps.
+ - *Carlos*: symbols are not that easy, attractions, transfers are not easy
+ - *Ruth*: 1. Confusing transfers
+2. Too many loops
+3. Keep it simple. Dont over complicate.
+
+Look at newyork and european metrorails for refference. 
+ - *Fabiola*: 1. The difference in the transfer circles. There shouldnt be two different ones. It looks like they are serving different purposes. 
+2. Too many surrounding names. Just street names would suffice.
+3. All Bus terminals should be a distinguishable color.
+
+Extra: There should be one arrow pointing in the direction away from the station. 
+
+Extra: Can the mover say the name of the the loops because it currently does not tell me. 
+ - *JJ*: Flipping page for different title loops, no mention of that on front. No other comment.
+ - *Edison, CUT group volunteer, transportation advocate*: On Station map we need to enhance bus stops.  
+ - *motivator*: 1) Tester had questions regarding the full loop. 2) The name change of Omni to Adrienne Arsht. 
+ - *Mike*: 1. Tester says the map feels a little too crowded. Too many names of locations and text on the map.
+2. Tester would make the actual metromover station names a different color.
+ - *monicar*: 1) The user didn't automatically know to find the points of interest and transfers on the pamphlet. 
+ - *Beth Maps*: The Omni bus stations was not clear, transfering from stations need to be more visible. 
+ - *User*: direction of the arrows, the legend didn't help or was used, 
+ - *Tito*: Alphabetization of destinations/stops. Text wall on page 2 is intimidating. Understanding how the routes interact with each other.
+ - *City guy*: User had no serious usability problems with the map. 
+ - *lcinmia*: too much text, insufficient use if universal or visual symbols//Adrienne Arsht / Omni// Knight Conference Center vs Knight Concert Hall // I-395 not I-195
+ - *Works downtown and uses metromover to move around downtown. *: 1. map not obvious. 2. not good for people with vision problem. 3. map is too busy to find info. 
+ - *Return-advertiser*: Based on the thickness of the lines, thought he may have to leave station to get on other line. The transfer stations vs recommended transfer station.
+ - *Paul*: I did not observe serious usability problems. 
+ - *Mimi*: Tester was found pamphlet easy to follow
+ - *Miami Biker / Commuter *: 1. The platform map was a bit busy for the user. They spend a bit of time trying to understand the map. 2. The colors were confusing 3. They didn't know how to get certain places because it wasn't suggested. 
+ - *Lara*: Tester's only problem is with the transfer text size. She thinks it's a little too small to read. Tester really likes the broken down loop maps. 
+
+After thinking a bit she adds:
+
+Extra: There are no hours on the City Centre Station map. 
+
+Extra: Sometimes it's hard to hear the speakers on thr train and in the station. 
+ - *hi*: legend not clear in association with the map. labeling size for locations. naming of certain places (ex. brickell / brickell city center.) **more comments from user: hours of operation on the map would be super-duper especially in party / nightlife areas. increase freq and duration of operation. Trains are too cold!**
+ - *Travel Industry Professional Daily transit commuter. *: Tester was good at using the map
+ - *anonymous on the internet*: Not sure of when to transfer. They all say clockwise next to them but the Inner Loop is the only one that does. Most testers did not look at the left panel.
+
+###Proctors only: Did the user receive their $20 Gift Card and parking voucher?
+ - *Oscarlopez*: 1
+ - *Jazzy Jaz*: 1
+ - *Jose*: 1
+ - *Andrae*: 1
+ - *miamigirl123*: 1
+ - *Latinmiami73*: 1
+ - *Carlos*: 1
+ - *Ruth*: 1
+ - *Fabiola*: 1
+ - *JJ*: 1
+ - *Edison, CUT group volunteer, transportation advocate*: 1
+ - *motivator*: 1
+ - *Mike*: 1
+ - *monicar*: 1
+ - *Beth Maps*: 1
+ - *User*: 1
+ - *Tito*: 1
+ - *City guy*: 1
+ - *lcinmia*: 1
+ - *Works downtown and uses metromover to move around downtown. *: 1
+ - *Return-advertiser*: 1
+ - *Paul*: 1
+ - *Mimi*: 1
+ - *Miami Biker / Commuter *: 1
+ - *Lara*: 1
+ - *hi*: 1
+ - *Travel Industry Professional Daily transit commuter. *: 1
+ - *anonymous on the internet*: 1
